@@ -2,10 +2,11 @@
   "name": "about-us-tlwwork",
   "version": "1.0.0",
   "description": "this is a part of the project that is about us",
-  "main": "index.js",
+  "main": "introduction.aboutus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    
+     "start": "parcel introduction.Aboutus.html",
+    "build": "parcel build introduction.Aboutus.html"
   },
   "repository": {
     "type": "git",
