@@ -1,0 +1,20 @@
+{
+  "name": "about-us-tlwwork",
+  "version": "1.0.0",
+  "description": "this is a part of the project that is about us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLWwork/About-us-TLWwork.git"
+  },
+  "author": "Daneil Luntras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLWwork/About-us-TLWwork/issues"
+  },
+  "homepage": "https://github.com/TLWwork/About-us-TLWwork#readme"
+}
