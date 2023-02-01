@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul {
+  flex-wrap: wrap;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  position: absolute;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #070707;
+  letter-spacing: 1px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all .3s;
+}
+
+nav ul li a.active, nav ul li a:hover {
+  color: #f7f5f5;
+  background: #030303;
+}
+
+/*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
