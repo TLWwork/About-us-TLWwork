@@ -31,11 +31,6 @@ nav ul li a {
   transition: all 1s;
 }
 
-nav ul li a.active, nav ul li a:hover {
-  color: #f7f5f5;
-  background: #4f4f4f;
-}
-
 .aldoilea {
   background-color: #fff;
   margin-left: 850px;
@@ -51,6 +46,41 @@ nav ul li a.active, nav ul li a:hover {
 img {
   height: 50px;
   width: 50px;
+}
+
+.altreilea {
+  margin-top: 10px;
+}
+
+.line {
+  width: 1050px;
+  border: 1px solid #b6b5b5;
+  margin-top: 50px;
+  position: absolute;
+}
+
+@media screen and (max-width: 380px) {
+  body {
+    margin: 0;
+  }
+
+  ul, li {
+    width: 100%;
+    height: 1000px;
+    position: relative;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .just-navigation {
+    height: 1000px;
+  }
+
+  .navigationfirst {
+    width: initial;
+  }
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
