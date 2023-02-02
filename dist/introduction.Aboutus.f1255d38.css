@@ -28,12 +28,29 @@ nav ul li a {
   font-size: 18px;
   font-weight: 500;
   text-decoration: none;
-  transition: all .3s;
+  transition: all 1s;
 }
 
 nav ul li a.active, nav ul li a:hover {
   color: #f7f5f5;
-  background: #030303;
+  background: #4f4f4f;
+}
+
+.aldoilea {
+  background-color: #fff;
+  margin-left: 850px;
+  position: absolute;
+}
+
+.just-navigation {
+  color: #070707;
+  background-color: #000;
+  margin: 5px 150px 0;
+}
+
+img {
+  height: 50px;
+  width: 50px;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */

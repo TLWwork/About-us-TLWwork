@@ -30,13 +30,40 @@ nav ul{
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
-    transition: all 0.3s ease;
+    transition: all 1s ease;
     text-align: center;
   }
   nav ul li a.active,
   nav ul li a:hover{
     color: rgb(247, 245, 245);
-    background: rgb(3, 3, 3);
+    background: rgb(79, 79, 79);
+    
     
   }
+  .aldoilea{
+background-color: white;
+ position: absolute;
+ margin-left: 850px;
+
+  }
+  .just-navigation{
+    margin:0px;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: black;
+    color:#070707;
+
+
+
+
+
+
+
+
+  }
   
+  img{
+    height: 50px;
+    width: 50px;
+  }
