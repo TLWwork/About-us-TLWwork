@@ -82,9 +82,6 @@ li{
         width: 100%;
           height:1000px;
     }
-
-
-
       .line{
    display: none;
 
@@ -105,4 +102,38 @@ li{
     .navigationfirst {
       width: initial;
     }
+}     
+
+
+.parttho-buton {
+ border-radius: 10px;
+   text-align: center;
+ transition: all 1s ease;
+  text-decoration: none;
+position: fixed;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

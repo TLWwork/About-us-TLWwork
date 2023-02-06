@@ -83,4 +83,12 @@ img {
   }
 }
 
+.parttho-buton {
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 1s;
+  position: fixed;
+}
+
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
