@@ -1,4 +1,5 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -83,12 +84,73 @@ img {
   }
 }
 
-.parttho-buton {
+.alpatrulea {
   text-align: center;
   border-radius: 10px;
   text-decoration: none;
   transition: all 1s;
   position: fixed;
+}
+
+body {
+  background: #fffcfc;
+  font-family: Montserrat, sans-serif;
+}
+
+.navMenu {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navMenu a {
+  color: #000;
+  text-transform: uppercase;
+  width: 80px;
+  font-size: 1.2em;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all .2s ease-in-out;
+  display: inline-block;
+}
+
+.navMenu a:hover {
+  color: #070707;
+}
+
+.navMenu .dot {
+  width: 6px;
+  height: 6px;
+  opacity: 0;
+  background: #000;
+  border-radius: 50%;
+  transition: all .2s ease-in-out;
+  transform: translateX(30px);
+}
+
+.navMenu a:nth-child(1):hover ~ .dot {
+  opacity: 1;
+  transition: all .2s ease-in-out;
+  transform: translateX(30px);
+}
+
+.navMenu a:nth-child(2):hover ~ .dot {
+  opacity: 1;
+  transition: all .2s ease-in-out;
+  transform: translateX(110px);
+}
+
+.navMenu a:nth-child(3):hover ~ .dot {
+  opacity: 1;
+  transition: all .2s ease-in-out;
+  transform: translateX(200px);
+}
+
+.navMenu a:nth-child(4):hover ~ .dot {
+  opacity: 1;
+  transition: all .2s ease-in-out;
+  transform: translateX(285px);
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
