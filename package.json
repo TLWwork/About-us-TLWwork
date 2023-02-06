@@ -5,7 +5,7 @@
   "main": "introduction.aboutus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "parcel introduction.Aboutus.html",
+    "start": "parcel introduction.Aboutus.html",
     "build": "parcel build introduction.Aboutus.html"
   },
   "repository": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/TLWwork/About-us-TLWwork/issues"
   },
-  "homepage": "https://github.com/TLWwork/About-us-TLWwork#readme"
+  "homepage": "https://github.com/TLWwork/About-us-TLWwork#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
 }
