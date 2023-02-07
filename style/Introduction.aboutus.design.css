@@ -127,7 +127,7 @@ body {
 .navMenu {
   position: absolute;
   top: 10%;
-  left: 50%;
+  left: 70%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
@@ -190,4 +190,15 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   opacity: 1;
+}
+.Nameweb{
+font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+position: absolute;
+margin:60px;
+margin-left: 150px;
+
+
+
+
+
 }

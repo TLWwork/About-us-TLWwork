@@ -100,7 +100,7 @@ body {
 .navMenu {
   position: absolute;
   top: 10%;
-  left: 50%;
+  left: 70%;
   transform: translate(-50%, -50%);
 }
 
@@ -151,6 +151,12 @@ body {
   opacity: 1;
   transition: all .2s ease-in-out;
   transform: translateX(285px);
+}
+
+.Nameweb {
+  margin: 60px 60px 60px 150px;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  position: absolute;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
