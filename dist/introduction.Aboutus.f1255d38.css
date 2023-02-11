@@ -42,6 +42,30 @@ nav ul li a {
   color: #070707;
   background-color: #000;
   margin: 5px 150px 0;
+  top: 10%;
+  left: 70%;
+}
+
+@media screen and (max-width: 1400px) {
+  .just-navigation {
+    color: #070707;
+    background-color: #000;
+    margin: 5px 150px 0;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .just-navigation {
+    color: #070707;
+    background-color: #000;
+    margin: 5px 150px 0 350px;
+  }
+
+  .Nameweb {
+    margin: 60px 60px 60px 360px;
+    font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+    position: absolute;
+  }
 }
 
 img {
