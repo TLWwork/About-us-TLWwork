@@ -2,7 +2,7 @@
   "name": "about-us-tlwwork",
   "version": "1.0.0",
   "description": "this is a part of the project that is about us",
-  "main": "introduction.aboutus.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel introduction.Aboutus.html",
