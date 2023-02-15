@@ -347,7 +347,11 @@ in domeniu  */
   padding:30px;
 }
 
-
+.contactme{
+  
+  top:120%;
+  position: absolute;
+}
 
 
 
