@@ -351,15 +351,33 @@ in domeniu  */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
   top:130%;
   position: absolute;
-
+left:25%;
+padding-bottom: 50px;
+background-color: #d0d0d0;
+border-radius:54% 46% 52% 48% / 7% 100% 0% 93%  ;
+padding-top: 50px;
+padding-left: 250px;
+padding-right: 250px;
+margin-bottom:200px;
 }
 .h2contact{
-  font-size: 44px;
+  font-size: 70px;
   font-weight: 900;
-left: 50%;  
+  margin: 30px;
 }
 
+.thoo{
+  left:10%;
+}
 
+.email{
+  padding:30px;
+  font-weight: 900;
+}
+.contacme-phone{
+  padding:30px;
+  font-weight: 900;
+}
 
 /* .imgine-pluseperience{
   

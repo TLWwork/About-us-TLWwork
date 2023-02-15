@@ -287,15 +287,29 @@ body {
 }
 
 .contactme {
+  background-color: #d0d0d0;
+  border-radius: 54% 46% 52% 48% / 7% 100% 0% 93%;
+  margin-bottom: 200px;
+  padding: 50px 250px;
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
   top: 130%;
+  left: 25%;
 }
 
 .h2contact {
-  font-size: 44px;
+  margin: 30px;
+  font-size: 70px;
   font-weight: 900;
-  left: 50%;
+}
+
+.thoo {
+  left: 10%;
+}
+
+.email, .contacme-phone {
+  padding: 30px;
+  font-weight: 900;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
