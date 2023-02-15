@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+body {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+}
+
 h1 {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -54,21 +58,21 @@ nav ul li a {
   }
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1450px) {
   .just-navigation {
     color: #070707;
     background-color: #000;
-    margin: 5px 150px 0 350px;
+    margin: 5px 150px 0 320px;
   }
 
   .Nameweb {
-    margin: 60px 60px 60px 360px;
+    margin: 60px 60px 60px 300px;
     font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     position: absolute;
   }
 }
 
-img {
+.imger {
   height: 50px;
   width: 50px;
 }
@@ -181,6 +185,29 @@ body {
   margin: 60px 60px 60px 150px;
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
+}
+
+.imge {
+  width: 100%;
+  height: 400px;
+  margin-top: 110px;
+  top: 30%;
+}
+
+.conatienr-tho {
+  color: #fff;
+  position: absolute;
+  top: 35%;
+  left: 20%;
+}
+
+.container-header {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  font-size: 40px;
+}
+
+.container-paragraf {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
