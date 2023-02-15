@@ -269,3 +269,18 @@ body {
 .container-paragraf{
 font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
+.that-is-contact{
+  background-color: #fffcfc;
+  margin: 30px;
+  padding:40px;
+  position:absolute;
+  top: 50%;
+  left: 60%;
+  border-radius: 5px;
+
+  border:solid 1px black;
+}
+.Nameboss{
+  font-size: 35px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}

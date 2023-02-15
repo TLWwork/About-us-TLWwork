@@ -210,4 +210,20 @@ body {
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
+.that-is-contact {
+  background-color: #fffcfc;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 30px;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 60%;
+}
+
+.Nameboss {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  font-size: 35px;
+}
+
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
