@@ -284,3 +284,33 @@ font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida San
   font-size: 35px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
+/* am mai terminat o  parte ce de mai jos va fi ani de experienta pe care ii are
+in domeniu  */
+
+.age-experience{
+  margin: 100px;
+}
+.imgprofile{
+  height:500px;
+  width: 400px;
+  top:85%;
+  left:20%;
+  position: absolute;
+}
+.numberexperience{
+  opacity: 0.5;
+  padding:30px;
+  position:absolute;
+   top:132%;
+  left:20%;
+  background-color: rgb(114, 145, 218);
+}
+
+
+
+
+
+
+/* .imgine-pluseperience{
+  
+} */

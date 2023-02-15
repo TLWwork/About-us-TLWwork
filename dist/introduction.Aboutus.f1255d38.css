@@ -226,4 +226,25 @@ body {
   font-size: 35px;
 }
 
+.age-experience {
+  margin: 100px;
+}
+
+.imgprofile {
+  height: 500px;
+  width: 400px;
+  position: absolute;
+  top: 85%;
+  left: 20%;
+}
+
+.numberexperience {
+  opacity: .5;
+  background-color: #7291da;
+  padding: 30px;
+  position: absolute;
+  top: 132%;
+  left: 20%;
+}
+
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
