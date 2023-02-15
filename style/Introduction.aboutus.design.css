@@ -348,9 +348,15 @@ in domeniu  */
 }
 
 .contactme{
-  
-  top:120%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+  top:130%;
   position: absolute;
+
+}
+.h2contact{
+  font-size: 44px;
+  font-weight: 900;
+left: 50%;  
 }
 
 

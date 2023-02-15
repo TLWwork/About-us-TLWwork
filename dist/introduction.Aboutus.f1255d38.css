@@ -287,8 +287,15 @@ body {
 }
 
 .contactme {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
-  top: 120%;
+  top: 130%;
+}
+
+.h2contact {
+  font-size: 44px;
+  font-weight: 900;
+  left: 50%;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
