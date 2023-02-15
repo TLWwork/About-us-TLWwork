@@ -70,6 +70,17 @@ nav ul li a {
     font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     position: absolute;
   }
+
+  .that-is-contact {
+    background-color: #fffcfc;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+  }
 }
 
 .imger {
@@ -217,7 +228,7 @@ body {
   margin: 30px;
   padding: 40px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 60%;
 }
 
@@ -227,14 +238,15 @@ body {
 }
 
 .age-experience {
-  margin: 100px;
+  margin: 70px;
 }
 
 .imgprofile {
   height: 500px;
   width: 400px;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
-  top: 85%;
+  top: 65%;
   left: 20%;
 }
 
@@ -242,9 +254,36 @@ body {
   opacity: .5;
   background-color: #7291da;
   padding: 30px;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
-  top: 132%;
+  top: 103.5%;
   left: 20%;
+}
+
+.aboutexpericence {
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  position: absolute;
+  top: 75%;
+  left: 60%;
+}
+
+.redparagarf {
+  color: red;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+}
+
+.name-title {
+  padding: 20px;
+  font-size: 30px;
+}
+
+.acestaesteacelamaiincetosat {
+  background-color: #e1e0e0;
+  border-radius: 3px;
+  margin: 10px;
+  padding: 30px;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */

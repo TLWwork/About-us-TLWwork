@@ -89,6 +89,22 @@ nav ul li a {
     font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     position: absolute;
   }
+.that-is-contact{
+   background-color: #fffcfc;
+  margin: 30px;
+  padding:40px;
+  position:absolute;
+  top: 50%;
+  left: 60%;
+  border-radius: 5px;
+
+  border:solid 1px black;
+}
+
+
+
+
+
 
 }
 
@@ -274,7 +290,7 @@ font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida San
   margin: 30px;
   padding:40px;
   position:absolute;
-  top: 50%;
+  top: 40%;
   left: 60%;
   border-radius: 5px;
 
@@ -288,24 +304,48 @@ font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida San
 in domeniu  */
 
 .age-experience{
-  margin: 100px;
+  margin:70px;
 }
 .imgprofile{
   height:500px;
   width: 400px;
-  top:85%;
+  top:65%;
   left:20%;
   position: absolute;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
 }
 .numberexperience{
   opacity: 0.5;
   padding:30px;
   position:absolute;
-   top:132%;
+   top:103.5%;
   left:20%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
   background-color: rgb(114, 145, 218);
 }
+.aboutexpericence{
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+  position:absolute;
+  top:75%;
+  left:60%;
+}
+.redparagarf{
+  color:red;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+}
+.name-title{
+  font-size: 30px;
+  padding: 20px;
+}
+.acestaesteacelamaiincetosat{
+  background-color: rgb(225, 224, 224);
+  margin:10px;
+  border-radius: 3px;
 
+  padding:30px;
+}
 
 
 
