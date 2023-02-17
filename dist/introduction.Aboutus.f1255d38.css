@@ -288,7 +288,7 @@ body {
 
 .contactme {
   background-color: #d0d0d0;
-  border-radius: 54% 46% 52% 48% / 7% 100% 0% 93%;
+  border-radius: 10px;
   margin-bottom: 200px;
   padding: 50px 250px;
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
