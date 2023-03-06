@@ -341,4 +341,12 @@ footer {
   font-size: 45px;
 }
 
+.foooter-last {
+  color: #fff;
+  height: 320px;
+  background-color: #00215b;
+  position: absolute;
+  left: 50%;
+}
+
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
