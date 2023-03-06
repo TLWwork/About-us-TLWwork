@@ -418,3 +418,37 @@ padding-left: 20px;
   margin-left: 0;
   font-size: 45px;
 }
+.foooter-last{
+ position: absolute;
+  background-color: #00215B;
+  color: #ffffff;
+  left: 50%;
+  height: 320px;
+
+    
+}
+/* .link{
+position: absolute;
+left: 60%;
+top: 200%;
+padding: 40px;
+ background-color: #00215B;
+}
+
+.support{
+padding: 50px;
+position: absolute;
+left: 90%;
+padding: 40px;
+top: 200%;
+width: 30%;
+background-color: #00215B;
+}
+.blog{
+position: absolute;
+left: 120%;
+top: 200%;
+padding-top: 40px;
+width: 30%;
+background-color: #00215B;
+} */
