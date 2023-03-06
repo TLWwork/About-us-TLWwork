@@ -351,7 +351,7 @@ in domeniu  */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
   top:130%;
   position: absolute;
-left:25%;
+left:20%;
 padding-bottom: 50px;
 background-color: #d0d0d0;
 border-radius: 10px;
@@ -389,4 +389,32 @@ margin-bottom:200px;
 /* footer  */
 footer{
   position:absolute;
+   top:190%;
+   left: 0%;
+   width: 60%;
+margin:0;
+
+ 
+}
+.Footer-part1{
+  position: absolute;
+  background-color: #709ce8;
+  color:#fffcfc;
+  padding: 40px;
+  padding-top: 30px;
+  padding-left: 350px; 
+}
+
+
+.v{
+padding-top :20px;
+padding-left: 20px;
+}
+.p{
+  padding-left: 0px;
+}
+.name-web{
+  margin: 20px;
+  margin-left: 0;
+  font-size: 45px;
 }
