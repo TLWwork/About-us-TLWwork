@@ -294,7 +294,7 @@ body {
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
   position: absolute;
   top: 130%;
-  left: 25%;
+  left: 20%;
 }
 
 .h2contact {
@@ -313,7 +313,32 @@ body {
 }
 
 footer {
+  width: 60%;
+  margin: 0;
   position: absolute;
+  top: 190%;
+  left: 0%;
+}
+
+.Footer-part1 {
+  color: #fffcfc;
+  background-color: #709ce8;
+  padding: 30px 40px 40px 350px;
+  position: absolute;
+}
+
+.v {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.p {
+  padding-left: 0;
+}
+
+.name-web {
+  margin: 20px 20px 20px 0;
+  font-size: 45px;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
