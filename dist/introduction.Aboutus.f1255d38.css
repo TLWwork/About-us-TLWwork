@@ -207,6 +207,8 @@ body {
 
 .conatienr-tho {
   color: #fff;
+  background-color: #000;
+  padding: 30px;
   position: absolute;
   top: 35%;
   left: 20%;
@@ -284,10 +286,11 @@ body {
   border-radius: 3px;
   margin: 10px;
   padding: 30px;
+  box-shadow: 0 15px 5px 5px #000;
 }
 
 .contactme {
-  background-color: #d0d0d0;
+  background-color: #7198b2;
   border-radius: 10px;
   margin-bottom: 200px;
   padding: 50px 250px;
@@ -295,6 +298,7 @@ body {
   position: absolute;
   top: 130%;
   left: 20%;
+  box-shadow: 10px 15px 5px 5px #000;
 }
 
 .h2contact {
@@ -323,7 +327,7 @@ footer {
 .Footer-part1 {
   color: #fffcfc;
   background-color: #709ce8;
-  padding: 30px 40px 40px 350px;
+  padding: 30px 40px 40px 310px;
   position: absolute;
 }
 
@@ -344,9 +348,31 @@ footer {
 .foooter-last {
   color: #fff;
   height: 320px;
+  width: 116.5%;
   background-color: #00215b;
+  margin: 0;
+  padding: 20px;
   position: absolute;
   left: 50%;
+}
+
+.link {
+  padding: 40px;
+  position: absolute;
+  left: 55%;
+}
+
+.support {
+  padding: 40px;
+  position: absolute;
+  left: 35%;
+}
+
+.blog {
+  width: 30%;
+  padding-top: 40px;
+  position: absolute;
+  left: 50px;
 }
 
 /*# sourceMappingURL=introduction.Aboutus.f1255d38.css.map */
