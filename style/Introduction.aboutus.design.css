@@ -5,7 +5,8 @@
   box-sizing: border-box;
 
 }
-body{
+
+body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
@@ -89,17 +90,18 @@ nav ul li a {
     font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     position: absolute;
   }
-.that-is-contact{
-   background-color: #fffcfc;
-  margin: 30px;
-  padding:40px;
-  position:absolute;
-  top: 50%;
-  left: 60%;
-  border-radius: 5px;
 
-  border:solid 1px black;
-}
+  .that-is-contact {
+    background-color: #fffcfc;
+    margin: 30px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    border-radius: 5px;
+
+    border: solid 1px black;
+  }
 
 
 
@@ -272,111 +274,128 @@ body {
   margin-top: 110px;
 
 }
-.conatienr-tho{
-  position:absolute;
-  top:35%;
-  left:20%;
-  color:#ffffff
+
+.conatienr-tho {
+  position: absolute;
+  top: 35%;
+  left: 20%;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 30px;
 }
-.container-header{
+
+.container-header {
   font-size: 40px;
- font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
-.container-paragraf{
-font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+.container-paragraf {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
-.that-is-contact{
+
+.that-is-contact {
   background-color: #fffcfc;
   margin: 30px;
-  padding:40px;
-  position:absolute;
+  padding: 40px;
+  position: absolute;
   top: 40%;
   left: 60%;
   border-radius: 5px;
 
-  border:solid 1px black;
+  border: solid 1px black;
 }
-.Nameboss{
+
+.Nameboss {
   font-size: 35px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
+
 /* am mai terminat o  parte ce de mai jos va fi ani de experienta pe care ii are
 in domeniu  */
 
-.age-experience{
-  margin:70px;
+.age-experience {
+  margin: 70px;
 }
-.imgprofile{
-  height:500px;
+
+.imgprofile {
+  height: 500px;
   width: 400px;
-  top:65%;
-  left:20%;
+  top: 65%;
+  left: 20%;
   position: absolute;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
-.numberexperience{
+
+.numberexperience {
   opacity: 0.5;
-  padding:30px;
-  position:absolute;
-   top:103.5%;
-  left:20%;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+  padding: 30px;
+  position: absolute;
+  top: 103.5%;
+  left: 20%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   background-color: rgb(114, 145, 218);
 }
-.aboutexpericence{
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
-  position:absolute;
-  top:75%;
-  left:60%;
+
+.aboutexpericence {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  position: absolute;
+  top: 75%;
+  left: 60%;
 }
-.redparagarf{
-  color:red;
+
+.redparagarf {
+  color: red;
   margin-bottom: 30px;
   margin-left: 10px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
-.name-title{
+
+.name-title {
   font-size: 30px;
   padding: 20px;
 }
-.acestaesteacelamaiincetosat{
+
+.acestaesteacelamaiincetosat {
   background-color: rgb(225, 224, 224);
-  margin:10px;
+  margin: 10px;
   border-radius: 3px;
-
-  padding:30px;
+  box-shadow: 0px 15px 5px 5px rgb(0, 0, 0);
+  padding: 30px;
 }
 
-.contactme{
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif ;
-  top:130%;
+.contactme {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  top: 130%;
   position: absolute;
-left:20%;
-padding-bottom: 50px;
-background-color: #d0d0d0;
-border-radius: 10px;
-padding-top: 50px;
-padding-left: 250px;
-padding-right: 250px;
-margin-bottom:200px;
+  left: 20%;
+  padding-bottom: 50px;
+  background-color: #7198b2;
+  border-radius: 10px;
+  padding-top: 50px;
+  padding-left: 250px;
+  padding-right: 250px;
+  margin-bottom: 200px;
+  box-shadow: 10px 15px 5px 5px rgb(0, 0, 0);
 
 }
-.h2contact{
+
+.h2contact {
   font-size: 70px;
   font-weight: 900;
   margin: 30px;
 }
 
-.thoo{
-  left:10%;
+.thoo {
+  left: 10%;
 }
 
-.email{
-  padding:30px;
+.email {
+  padding: 30px;
   font-weight: 900;
 }
-.contacme-phone{
-  padding:30px;
+
+.contacme-phone {
+  padding: 30px;
   font-weight: 900;
 }
 
@@ -387,68 +406,72 @@ margin-bottom:200px;
 
 } */
 /* footer  */
-footer{
-  position:absolute;
-   top:190%;
-   left: 0%;
-   width: 60%;
-margin:0;
+footer {
+  position: absolute;
+  top: 190%;
+  left: 0%;
+  width: 60%;
+  margin: 0;
 
- 
+
 }
-.Footer-part1{
+
+.Footer-part1 {
   position: absolute;
   background-color: #709ce8;
-  color:#fffcfc;
+  color: #fffcfc;
   padding: 40px;
   padding-top: 30px;
-  padding-left: 350px; 
+  padding-left: 310px;
 }
 
 
-.v{
-padding-top :20px;
-padding-left: 20px;
+.v {
+  padding-top: 20px;
+  padding-left: 20px;
 }
-.p{
+
+.p {
   padding-left: 0px;
 }
-.name-web{
+
+.name-web {
   margin: 20px;
   margin-left: 0;
   font-size: 45px;
 }
-.foooter-last{
- position: absolute;
+
+.foooter-last {
+  position: absolute;
   background-color: #00215B;
   color: #ffffff;
   left: 50%;
   height: 320px;
-
-    
-}
-/* .link{
-position: absolute;
-left: 60%;
-top: 200%;
-padding: 40px;
- background-color: #00215B;
+  padding: 20px;
+  width: 116.5%;
+  margin: 0px;
 }
 
-.support{
-padding: 50px;
-position: absolute;
-left: 90%;
-padding: 40px;
-top: 200%;
-width: 30%;
-background-color: #00215B;
+.link {
+  position: absolute;
+  left: 55%;
+  padding: 40px;
+
 }
-.blog{
-position: absolute;
-left: 120%;
-top: 200%;
-padding-top: 40px;
-width: 30%;
-background-color: #00215B;
-} */
+
+.support {
+  padding: 50px;
+  position: absolute;
+  left: 35%;
+  padding: 40px;
+
+
+}
+
+.blog {
+  position: absolute;
+  left: 50px;
+  padding-top: 40px;
+  width: 30%;
+
+}
